@@ -2,7 +2,6 @@ import ftplib
 import io
 import time
 
-keep_alive()
 
 # Replace these with your FTP server details
 ftp_host = 'ftpupload.net'
